@@ -2,7 +2,7 @@
 
 A random shit chat bot in ruby
 
-# NEEDED CONTRIBUTERS TO FIX - 
+# NEEDED CONTRIBUTORS TO FIX -
 
 IT GOES AUTO - 
 
