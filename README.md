@@ -2,7 +2,9 @@
 
 A random shit chat bot in ruby
 
-# NEEDED CONTRIBUTIONS - PROBLEM - IT GOES AUTO - 
+# NEEDED CONTRIBUTERS TO FIX - 
+
+IT GOES AUTO - 
 
 2021-06-03T19:33:24.438489+00:00 heroku[bot.1]: Process exited with status 1
 2021-06-03T19:33:24.381039+00:00 app[bot.1]: /app/vendor/bundle/ruby/2.6.0/gems/telegram-bot-ruby-0.8.6.1/lib/telegram/bot/client.rb:51:in `log_incoming_message': undefined method `from' for nil:NilClass (NoMethodError)
@@ -23,3 +25,4 @@ A random shit chat bot in ruby
   
   
   IT WILL RUN FOR 10 MINS MAX THANKS, DO FORK AND STAR IF IMPORTED
+# PRs are welcome
